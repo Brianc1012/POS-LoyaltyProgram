@@ -1,1 +1,1 @@
-# POS-LoyaltyProgram
+# POS-System Side
